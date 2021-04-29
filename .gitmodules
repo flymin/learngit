@@ -1,0 +1,3 @@
+[submodule "learnsubmodule"]
+	path = learnsubmodule
+	url = https://github.com/flymin/learnsubmodule.git
